@@ -1,4 +1,8 @@
 I am dheeraj gajare
 I live in Ambernath in Thane district.
+<<<<<<< HEAD
 i am gajanan.
 i am from nanded.
+=======
+I am from Goregaon.
+>>>>>>> 939269594b1a122efb2d61606bf5daf00ba5d704
